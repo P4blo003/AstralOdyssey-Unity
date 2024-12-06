@@ -1,0 +1,13 @@
+# Folders:
+.vscode
+Packages/
+Library/
+Logs/
+ProjectSettings/
+Temp/
+UserSettings/
+
+# Archives:
+*.csproj
+*.sln
+*.meta
